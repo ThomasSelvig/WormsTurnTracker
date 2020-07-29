@@ -1,0 +1,1 @@
+pyuic5 layout.ui -o __init__.py -x
